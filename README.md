@@ -1,10 +1,12 @@
+# README
+
 Titulo del proyecto: Carrito Seguidor de Linea 
 
 Programa Educativo: Ingeniería en Intrumentación Electrónica
 
 Experiencia Educativa: Sistemas Digitales
 
-Facilitador: José Alfonso Dominguez Chávez
+Facilitador: Dr. José Alfonso Dominguez Chávez
 
 Semestre: 4to
 
