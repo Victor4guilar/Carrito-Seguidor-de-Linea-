@@ -31,5 +31,5 @@ Cada integrante contribuye al repositorio mediante la actualización de los arch
 * **Facultad:** Instrumentación Electrónica
 * **Programa Educativo:** Ingeniería en Instrumentación Electrónica
 * **Experiencia Educativa:** Sistemas Digitales
-* **Docente:** José Alfonso Dominguez Chavez
+* **Docente:** Dr. José Alfonso Dominguez Chavez
 * **Año:** 2026
