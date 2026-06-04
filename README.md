@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# README
 
 Titulo del proyecto: Carrito Seguidor de Linea 
 
