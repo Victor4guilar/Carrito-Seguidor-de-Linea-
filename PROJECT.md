@@ -11,7 +11,7 @@
 
 ### DIAGRAMA A BLOQUES DE HARDWARE
 
-![alt text](<Captura de pantalla 2026-06-03 204355.png>)
+![alt text](<Diagrama de Bloques.png>)
 
 ### LISTA DE COMPONENTES 
 
