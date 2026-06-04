@@ -1,3 +1,5 @@
+# CONTRIBUTING
+
 Titulo del proyecto: Carrito Seguidor de Linea 
 
 Programa Educativo: Ingeniería en Intrumentación Electrónica
