@@ -58,3 +58,15 @@ El formato está basado en un registro cronológico de versiones para facilitar 
 * Evidencias experimentales incorporadas.
 * Pruebas y simulaciones documentadas.
 * Documentación técnica y académica completada.
+
+---
+
+## [v1.1.0] - 2026-06-04
+
+### Agregado
+
+#### Axel de Jesús Ronzón Pérez (IAtevoy)
+
+* Incorporación de videos de evidencia en la carpeta de `Results`, de la participación en la carrera de carritos en la ExpoInnovatek 2026.
+
+---
